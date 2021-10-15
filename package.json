@@ -29,9 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nestjsplus/nestjs-package-starter"
+    "url": "git+https://github.com/jasurbek97/nestjs-class-validator.git"
   },
-  "bugs": "https://github.com/nestjsplus/nestjs-package-starter",
+  "bugs": "https://github.com/jasurbek97/nestjs-class-validator/issues",
+  "homepage": "https://github.com/jasurbek97/nestjs-class-validator#readme",
   "peerDependencies": {
     "@nestjs/common": "^6.0.0"
   },
